@@ -2,4 +2,4 @@
 
 
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Portfolio&logoColor=white"/>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
