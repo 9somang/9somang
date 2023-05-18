@@ -25,11 +25,13 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
 
-<br><br><br>
+<br><br>
 🧑🏻‍💻 SNS & Portfolio
 <br><br>
 <a href="https://sponge-mind-3a2.notion.site/Somang-Ku-3a65acc077e74b4a9790b4ecefa33712" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Dev&StudyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/> <br><br>
+<a href="https://velog.io/@somang9" target="_blank"><img src="https://img.shields.io/badge/Dev&StudyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
+<a href="ksmang09@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<br><br>
     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9somang&layout=compact"><br><br>
 
