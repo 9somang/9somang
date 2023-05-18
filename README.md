@@ -5,7 +5,7 @@
   <div align="center">
 
     
- ✏️ Once I've Used
+ ✏️ Once I've Used 📚
 <br><br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
@@ -33,7 +33,7 @@
 <a href="mailto:ksmang09@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 <br><br>
  
-My Github used Languages <br>
+My Github used Languages <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9somang&layout=compact"><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9somang&show_icons=true&theme=radical)
