@@ -8,7 +8,7 @@
  ✏️ Once I've Used
 <br><br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat&logo=dart&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
@@ -21,6 +21,10 @@
 🛠️ Tools 🛠️
 <br><br>
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white">
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+
 <br><br><br>
 🧑🏻‍💻 SNS & Portfolio
 <br><br>
