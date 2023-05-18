@@ -8,10 +8,10 @@
 🛠️ Once I've Used
 <br><br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/DART-0175C2?style=flat&logo=dart&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
