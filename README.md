@@ -6,8 +6,8 @@
 
     
 🛠️ Once I've Used
-<br>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+<br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo&logo=flutter&logoColor=white">
  
 
   
