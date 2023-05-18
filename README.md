@@ -36,6 +36,6 @@
  🌈 My Github used Languages 🌈 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9somang&layout=compact"><br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9somang&show_icons=true&theme=solarized-light)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9somang&show_icons=true&theme=prussian)
     
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F9somang%2Fhit-counter&count_bg=%232ACEC9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Today+%2F+All&edge_flat=false"/></a>
