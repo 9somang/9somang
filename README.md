@@ -8,7 +8,8 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Dev&StudyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/>
     
 <br/>
-
+    
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9somang&layout=compact"><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9somang&show_icons=true&theme=radical)
     
