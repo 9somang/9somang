@@ -9,9 +9,9 @@
 <a href="https://velog.io/@somang9" target="_blank"><img src="https://img.shields.io/badge/Dev&StudyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
 <a href="mailto:ksmang09@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
-<br><br>
- 
- My Github used Languages <br><br>
+<br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9somang&layout=compact"><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9somang&show_icons=true&theme=prussian)
