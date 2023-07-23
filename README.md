@@ -6,8 +6,6 @@
 🧑🏻‍💻✏️ Studying ....
 <br><br>
 <!-- <a href="https://9somang.notion.site/Somang-Ku-89c5805ffcb44130acad66a440bc8217" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/> -->
-<a href="https://velog.io/@somang9" target="_blank"><img src="https://img.shields.io/badge/Dev & StudyBlog-20C997?style=flat-square&logo=velog&logoColor=white"/> 
-<a href="mailto:ksmang09@naver.com" target="_blank"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 <br>
 <br>
