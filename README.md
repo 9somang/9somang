@@ -5,7 +5,6 @@
   <div align="center">
 🧑🏻‍💻✏️ Studying ....
 <br><br>
-<!-- <a href="https://9somang.notion.site/Somang-Ku-89c5805ffcb44130acad66a440bc8217" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/> -->
 
 <br>
 <br>
