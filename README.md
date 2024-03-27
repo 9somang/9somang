@@ -1,10 +1,10 @@
-## 👋
+## 👋 Hi, there
 <br/>
 <br/>
 
   <div align="center">
 </br>
-2023.12.12 (화) 우리은행 IT 최종합격
+
 
 <br>
 <br>
